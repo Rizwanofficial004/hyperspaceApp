@@ -32,6 +32,18 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+
+	<key>NSCameraUsageDescription</key>
+	<string>Allow this permission to capture photo from camera.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>We need access to your contacts to save the connections you make, and to create automatic connections when your friends join Hyperspace.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need this permission to get nearyby connections.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow this permission to select photo from gallery.</string>
+
+
+
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
